@@ -1,0 +1,1372 @@
+.size{
+    margin-top:0px;
+    margin-left: 1100px;
+    position: absolute;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 100px;
+    width:200px;
+  }
+  .font-preview p{
+    margin-left: 10px;
+    color: white;
+  }
+  .size p{
+    margin-top: 20px;
+    margin-left: 40px;
+  }
+  #preview-text{
+    background-color: lightgrey;
+  }
+  #slider{
+    width: 160px;
+  }
+  .preview1{
+    margin-top: 200px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview2{
+    margin-top: 200px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview3{
+    margin-top: 200px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview4{
+    margin-top: 535px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview5{
+    margin-top: 535px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview6{
+    margin-top: 535px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview7{
+    margin-top: 870px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview8{
+    margin-top: 870px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview9{
+    margin-top: 870px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview10{
+    margin-top: 1205px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview11{
+    margin-top: 1205px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview12{
+    margin-top: 1205px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview13{
+    margin-top: 1540px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview14{
+    margin-top: 1540px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview15{
+    margin-top: 1540px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview16{
+    margin-top: 1875px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview17{
+    margin-top: 1875px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview18{
+    margin-top: 1875px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview19{
+    margin-top: 2215px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview20{
+    margin-top: 2215px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview21{
+    margin-top: 2215px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview22{
+    margin-top: 2550px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview23{
+    margin-top: 2550px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview24{
+    margin-top: 2550px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview25{
+    margin-top: 2885px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview26{
+    margin-top: 2885px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview27{
+    margin-top: 2885px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview28{
+    margin-top: 3220px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview29{
+    margin-top: 3220px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview30{
+    margin-top: 3220px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview31{
+    margin-top: 3555px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview32{
+    margin-top: 3555px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview33{
+    margin-top: 3555px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview34{
+    margin-top: 3890px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview35{
+    margin-top: 3890px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview36{
+    margin-top: 3890px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview37{
+    margin-top: 4225px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview38{
+    margin-top: 4225px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview39{
+    margin-top: 4225px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview40{
+    margin-top: 4560px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview41{
+    margin-top: 4560px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview42{
+    margin-top: 4560px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview43{
+    margin-top: 4895px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview44{
+    margin-top: 4895px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview45{
+    margin-top: 4895px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview46{
+    margin-top: 5230px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview47{
+    margin-top: 5230px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview48{
+    margin-top: 5230px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview49{
+    margin-top: 5565px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview50{
+    margin-top: 5565px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview51{
+    margin-top: 5565px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview52{
+    margin-top: 5900px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview53{
+    margin-top: 5900px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview54{
+    margin-top: 5900px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview55{
+    margin-top: 6235px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview56{
+    margin-top: 6235px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview57{
+    margin-top: 6235px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  
+  .preview58{
+    margin-top: 6570px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview59{
+    margin-top: 6570px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview60{
+    margin-top: 6570px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview61{
+    margin-top: 6905px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview62{
+    margin-top: 6905px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview63{
+    margin-top: 6905px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  
+  .preview64{
+    margin-top: 7240px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview65{
+    margin-top: 7240px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview66{
+    margin-top: 7240px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview67{
+    margin-top: 7575px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview68{
+    margin-top: 7575px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview69{
+    margin-top: 7575px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview70{
+    margin-top: 7910px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview71{
+    margin-top: 7910px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview72{
+    margin-top: 7910px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview73{
+    margin-top: 8245px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview74{
+    margin-top: 8245px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview75{
+    margin-top: 8245px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  
+  .preview76{
+    margin-top: 8580px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview77{
+    margin-top: 8580px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview78
+  {
+    margin-top: 8580px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview79{
+    margin-top: 8915px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview80{
+    margin-top: 8915px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview81{
+    margin-top: 8915px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview82{
+    margin-top: 9250px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview83{
+    margin-top: 9250px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview84{
+    margin-top: 9250px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview85{
+    margin-top: 9585px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview86{
+    margin-top: 9585px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview87{
+    margin-top: 9585px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview88{
+    margin-top: 9920px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview89{
+    margin-top: 9920px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview90{
+    margin-top: 9920px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview91{
+    margin-top: 10255px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview92{
+    margin-top: 10255px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview93{
+    margin-top:10255px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview94{
+    margin-top: 10590px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview95{
+    margin-top:  10590px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview96{
+    margin-top:  10590px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  
+  .preview97{
+    margin-top: 10925px;
+    height : 300px;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview98{
+    margin-top: 10925px;
+    margin-left: 34% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview99{
+    margin-top: 10925px;
+    margin-left: 66% ;
+    height : 300px;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview100{
+    margin-top: 11260px;
+    height : auto;
+    width:32%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview101{
+    margin-top: 11260px;
+    margin-left: 34% ;
+    height : auto;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  .preview102{
+    margin-top: 11260px;
+    margin-left: 66% ;
+    height : auto;
+    width:30%;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+  }
+  
+  textarea{
+    background-color: rgb(105, 103, 103);
+    color: #000;
+  }
+  body {
+      font-family: Arial, sans-serif;
+      color: #fff;
+      background-color: #000;
+    }
+    
+    h1 {
+      text-align: center;
+    }
+    
+    .font-select {
+      margin: 20px;
+    }
+    
+    .font-preview {
+      margin: 20px;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    #preview-text {
+      width: 100%;
+      height: 100px;
+      margin-bottom: 10px;
+    }
+    
+    .preview {
+      margin: 10px 0;
+    }
+    #font-type{
+      margin-top :15px;
+      margin-left:10px;
+      font-weight: bolder;
+    }
+    .css-code{
+      margin-top:px;
+      margin-left:10px;
+      padding: 10px;
+      position: absolute;
+      display: inline-block;
+      border: 1px solid white;
+      border-radius: 10px;
+      height: 100px;
+      width:200px;
+    }
+    #a{
+      font-family:'Courier New', Courier, monospace;
+    }
+  
+    #b{
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    #c{
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    #d{
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    #e{
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    #f{
+      font-family:'Times New Roman', Times, serif;
+    }
+    #g{
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    #h{
+      font-family:Arial, Helvetica, sans-serif;
+    }
+    #i{
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    #j{
+      font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    #k{
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    #l{
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+    #m{
+      font-family: cursive;
+    }
+    #n{
+      font-family: fantasy;
+    }
+    #o{
+      font-family: monospace;
+    }
+    #p{
+      font-family:sans-serif;
+    }
+    #q{
+      font-family: serif;
+    }
+    #r{
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    #s{
+      font-family:emoji ;
+    }
+    #t{
+      font-family: math;
+    }
+    #u{
+      font-family: fangsong;
+    }
+    #v{
+      font-family: Times, "Times New Roman", Georgia, serif;
+    }
+    #w{
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+    }
+    #x{
+      font-family: "Lucida Console", Courier, monospace;
+    }
+    #y{
+      font-family: Arial;
+    }
+    #z{
+      font-family: MingLiU-ExtB;
+    }	
+    #aa{
+      font-family: Arial Rounded MT Bold ;
+    }
+    #ab{
+      font-family: Arial narrow;
+    }
+    #ac{
+      font-family: Avanta Garde;
+    }
+    #ad{
+      font-family: Optima;
+    }
+    #ae{
+      font-family: Segoe UI;
+    }
+    #af{
+      font-family: Geneva;
+    }
+    #ag{
+      font-family: Trebuchet MS	;
+    }
+    #ah{
+      font-family: Franklin Gothic Medium;
+    }
+    #ai{
+      font-family: Futara;
+    }
+    #aj{
+      font-family: Candara;
+    }
+    #ak{
+      font-family: Century Gothic;
+    }
+    #al{
+      font-family: Gill Sans;
+    }
+    #am{
+      font-family: Lucida Sans;
+    }
+    #an{
+      font-family: Noto;
+    }
+    #ao{
+      font-family: Calibri;
+    }
+    #ap{
+      font-family: Verdana;
+    }
+    #aq{
+      font-family: Helvetica;
+    }
+    #ar{
+      font-family: Times New Roman;
+    }
+    #as{
+      font-family: Big Caslon;
+    }
+    #at{
+      font-family:Bodoni MT	;
+    }
+    #au{
+      font-family:Book Antiqua;
+    }
+    #av{
+      font-family:  Bookman;
+    }
+    #aw{
+      font-family:	New Century Schoolbook;
+    }
+    #ax{
+      font-family: Calisto MT;
+    }
+    #ay{
+      font-family:Cambria;
+    }
+    #az{
+      font-family:Consolas;
+    }
+    #ba{
+      font-family:Baskerville	;
+    }
+    #bb{
+      font-family:MS PGothic	;
+    }
+    #bc{
+      font-family:Rockwell;
+    }
+    #bd{
+      font-family:Perpetua;
+    }
+    #be{
+      font-family:  Palatino	;
+    }
+    #bf{
+      font-family:Lucida Bright	;
+    }
+    #bg{
+      font-family:Hoefler Text;
+    }
+    #bh{
+      font-family:Goudy Old Style	;
+    }
+    #bi{
+      font-family:Georgia	;
+    }
+    #bj{
+      font-family: Garamond;
+    }
+    #bk{
+      font-family:Courier;
+    }
+    #bl{
+      font-family:	Lucidatypewriter;
+    }
+    #bm{
+      font-family: Lucida Console;
+    }
+    #bn{
+      font-family: 	Lucida Sans Typewriter;
+    }
+    #bo{
+      font-family: Monaco;
+    }
+    #bp{
+      font-family:Andale Mono;
+    }
+    #bq{
+      font-family: 	 Comic Sans;
+    }
+    #br{
+      font-family: Comic Sans MS;
+    }
+    #bs{
+      font-family:Apple Chancery ;
+    }
+    #bt{
+      font-family: 	 Brush Script MT;
+    }
+    #bu{
+      font-family: 	Brush Script Std;
+    }
+    #bv{
+      font-family: Snell Roundhan;
+    }
+    #bw{
+      font-family: URW Chancery;
+    }
+    #bx{
+      font-family: 	Coronet script;
+    }
+    #by{
+      font-family: Florence;
+    }
+    #bz{
+      font-family:	 Parkavenue;
+    }	
+    #ca{
+      font-family:Impact;
+    }
+    #cb{
+      font-family:	 Jazz LET;
+    }
+    #cc{
+      font-family:	 Marker Felt;
+    }
+    #cd{
+      font-family:	 papyrus;
+    }
+    #ce{
+      font-family:SimSun-ExtB;
+    }
+    #cf{
+      font-family:	Symbol;
+    }
+    #cg{
+      font-family:	Tahoma;
+    }
+    #ch{
+      font-family: Microsoft Uighur;
+    }
+    #ci{
+      font-family: MS UI Gothic;
+    }
+    #cj{
+      font-family:Yu Gothic UI;
+    }
+    #ck{
+      font-family:MingLiU_HKSCS-ExtB;
+    }
+    #cl{
+      font-family:Segoe MDL2 Assets;
+    }
+    #cm{
+      font-family: Microsoft Yi Baiti;
+    }
+    #cn{
+      font-family: Sanskrit Text;
+    }
+    #co{
+      font-family: 	Sakkal Majalla;
+    }
+    #cp{
+      font-family:PMingLiU;
+    }
+    #cq{
+      font-family: NSimSun;
+    }
+    #cr{
+      font-family: MV Boli;
+    }
+    #cs{
+      font-family:	 Rockwell Extra Bold;
+    }
+    #ct{
+      font-family: Arial Black;
+    }
+    #cu{
+      font-family:  Segoe Script;
+    }
+    #cv{
+      font-family:  Wingdings;
+    }
+    #cw{
+      font-family:  Webdings;
+    }
+    #cx{
+      font-family: Segoe Print;
+    }

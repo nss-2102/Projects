@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.con{
+    height:100%;
+    width:100%;
+    display:relative;
+    position: relative;
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.con::before{
+    content: "";
+    position: relative;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+
+.top{
+    height: 30%;
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+}
+.top h1{
+    padding:50px 0px 25px 0px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 50px;
+    font-size: 50px;
+    font-weight: 400;
+}
+.top p{
+    padding: 25px 0px;
+    font-family: 'Lugrasimo', cursive;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.main{
+    height: 90%;
+    width: 80%;
+    display: relative;
+}
+
+.tools{
+    display: flex;
+    width: 80%;
+    text-align: center;
+    margin-left: 35%;
+    padding: 25px 0px;
+    
+}
+
+.tool{
+    width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+    transition: 0.3s;
+    border-radius: 20px;
+    margin-left: 5%;
+
+}
+
+.tool:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+}
+
+.name{
+    background-color: black;
+}
+
+.name h2{
+    text-align: left;
+    font-family: 'Libre Baskerville', serif;
+    padding: 15px 0px 15px 15px;
+    
+}
+.name h2 a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+.name h2 a:hover{
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.info p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-align: left;
+    padding: 15px 0px 0px 15px;
+}
+
+.image{
+    margin-left: 5%;
+}
+.foot{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.foot h1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 20px;
+}
+
+.foot p{
+    font-size:20px ;
+}
